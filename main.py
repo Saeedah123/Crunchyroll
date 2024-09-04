@@ -148,7 +148,7 @@ def save_data(data):
     with open('chrunch.json', 'w') as file:
         json.dump(data, file, indent=4)
 
-Admins = ['7431622335', '987654321'] 
+Admins = ['5090817443', '6109365101'] 
 
 @bot.message_handler(commands=['subscribers'])
 def send_subscribers(message):
