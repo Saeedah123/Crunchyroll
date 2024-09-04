@@ -2,7 +2,6 @@ pyrofork
 tgcrypto 
 telebot
 requests 
-random
 bs4 
 shortzy 
 datetime 
